@@ -340,7 +340,7 @@ section {
   /* invisible area to act as bridge for hover */
 }
 .navbar .nav-links .submenu::after {
-  content: '';
+  content: "";
   position: absolute;
   top: -1.5rem;
   left: 0;
@@ -494,7 +494,7 @@ section {
   /* Dashboard Mockup CSS */
 }
 .hero::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -506,7 +506,7 @@ section {
   pointer-events: none;
 }
 .hero::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 10%;
   left: -30%;
@@ -679,7 +679,7 @@ section {
   z-index: 10;
 }
 .hero .dashboard-mockup::after {
-  content: '';
+  content: "";
   position: absolute;
   top: 20%;
   right: -20%;
@@ -1118,7 +1118,7 @@ section {
   overflow: hidden;
 }
 .testimonials::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -1423,7 +1423,7 @@ section {
   position: relative;
 }
 .workflow-timeline::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 24px;
   bottom: 24px;
@@ -1505,7 +1505,7 @@ section {
   background: linear-gradient(90deg, #00e676, #00e5ff);
 }
 .capability-card::before {
-  content: '';
+  content: "";
   position: absolute;
   top: 0;
   left: 0;
@@ -1535,9 +1535,9 @@ section {
   line-height: 1.5;
 }
 .capability-card ul li::before {
-  content: '\eac1';
+  content: "\eac1";
   /* Boxicons check */
-  font-family: 'boxicons';
+  font-family: "boxicons";
   position: absolute;
   left: 0;
   top: -3px;
